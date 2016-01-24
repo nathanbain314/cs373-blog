@@ -10,11 +10,11 @@ I am a third year CS student at the University of Texas at Austin
 
 This semester I am taking
 
-* CS373 Software Engineering
-* CS371P Object-Oriented Programming
-* CS378 Cyberphysical Systems
-* M348 Scientific Computation in Numerical Analysis
-* HIS 319D Ancient Mediterranean World
+- CS373 Software Engineering
+- CS371P Object-Oriented Programming
+- CS378 Cyberphysical Systems
+- M348 Scientific Computation in Numerical Analysis
+- HIS 319D Ancient Mediterranean World
 
 ### Contact me
 
