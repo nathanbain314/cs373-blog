@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a third year CS student at the University of Texas at Austin
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This semester I am taking
+* CS373 Software Engineering
+* CS371P Object-Oriented Programming
+* CS378 Cyberphysical Systems
+* M348 Scientific Computation in Numerical Analysis
+* HIS 319D Ancient Mediterranean World
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nathanbain314@gmail.com](mailto:nathanbain314@gmail.com)
