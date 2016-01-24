@@ -24,10 +24,10 @@ html {
 }
 
 body {
-	background: url("images/top.png") repeat-x top, url("images/base.png") repeat-x bottom, #D1C19F;
+	background: url("{{ site.baseurl }}images/top.png") repeat-x top, url("{{ site.baseurl }}images/base.png") repeat-x bottom, #D1C19F;
   font: 18px/1.4 $helvetica;
 	color: #9d0a0e;
-	line-height: 1;
+	line-height: 2;
 }
 
 .container {

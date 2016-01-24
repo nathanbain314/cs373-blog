@@ -9,6 +9,7 @@ I am a third year CS student at the University of Texas at Austin
 ### More Information
 
 This semester I am taking
+
 * CS373 Software Engineering
 * CS371P Object-Oriented Programming
 * CS378 Cyberphysical Systems
