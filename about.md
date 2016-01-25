@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a third year CS student at the University of Texas at Austin
+My name is Nathan Bain, and I am a third year CS student at the University of Texas at Austin
 
 ### More Information
 
